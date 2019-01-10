@@ -1,0 +1,11 @@
+C:\Users\ryanb\Desktop\likedPost\bin\Debug\netcoreapp2.2\likedPost.deps.json
+C:\Users\ryanb\Desktop\likedPost\bin\Debug\netcoreapp2.2\likedPost.runtimeconfig.json
+C:\Users\ryanb\Desktop\likedPost\bin\Debug\netcoreapp2.2\likedPost.runtimeconfig.dev.json
+C:\Users\ryanb\Desktop\likedPost\bin\Debug\netcoreapp2.2\likedPost.dll
+C:\Users\ryanb\Desktop\likedPost\bin\Debug\netcoreapp2.2\likedPost.pdb
+C:\Users\ryanb\Desktop\likedPost\obj\Debug\netcoreapp2.2\likedPost.csprojAssemblyReference.cache
+C:\Users\ryanb\Desktop\likedPost\obj\Debug\netcoreapp2.2\likedPost.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\Desktop\likedPost\obj\Debug\netcoreapp2.2\likedPost.AssemblyInfoInputs.cache
+C:\Users\ryanb\Desktop\likedPost\obj\Debug\netcoreapp2.2\likedPost.AssemblyInfo.cs
+C:\Users\ryanb\Desktop\likedPost\obj\Debug\netcoreapp2.2\likedPost.dll
+C:\Users\ryanb\Desktop\likedPost\obj\Debug\netcoreapp2.2\likedPost.pdb
